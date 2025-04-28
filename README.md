@@ -1,1 +1,1 @@
-# k8s-public
+# Public repo for K8s + ZendPHP setup.
